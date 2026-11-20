@@ -1,0 +1,24 @@
+# datasets (too big for GitHub)
+data/
+*.wav
+*.zip
+
+# python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# secrets
+.env
+
+# mac junk
+.DS_Store
+
+# app stuff
+node_modules/
+.expo/
+
+# big model files (share via Google Drive instead)
+*.h5
+*.keras
